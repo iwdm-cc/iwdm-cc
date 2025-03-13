@@ -82,8 +82,8 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=你的GitHub用户名&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的GitHub用户名&layout=compact&theme=dracula" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iwdm-cc&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iwdm-cc&layout=compact&theme=dracula" alt="Top Langs" />
 </div>
 
 ---
