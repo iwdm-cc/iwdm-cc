@@ -1,7 +1,7 @@
-# 张成 - Java 开发工程师 | 全栈实习生
+# Java 开发工程师 | 全栈实习生
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F78DA7&width=435&lines=欢迎来到张成的代码世界!;不断创新，追求卓越" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F78DA7&width=435&lines=欢迎来到我的代码世界!;不断创新，追求卓越" alt="Typing SVG" />
 </div>
 
 ---
